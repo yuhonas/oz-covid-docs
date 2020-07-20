@@ -4,7 +4,7 @@ This is a repository for various documentation received throughout the COVID qua
 
 ## Why?
 
-1. This information should be public, I haven't been able too at the time of writing reconcile it online at dhhs.vic.gov.au or similiar sites, New Zealand seems to have a single public [Welcome Pack](https://covid19.govt.nz/assets/resources/miq-travellers/mif_welcome-pack.pdf)
+1. This information should be public, I haven't been able too at the time of writing reconcile it online at [dhhs.vic.gov.au](https://www.dhhs.vic.gov.au/) or similiar sites, New Zealand seems to have a single public [Welcome Pack](https://covid19.govt.nz/assets/resources/miq-travellers/mif_welcome-pack.pdf)
 2. So we can compare our response to other states/countries, this is a great opportunity to learn from each other during
    this unprecedented time
 3. For posterity
